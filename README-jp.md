@@ -13,27 +13,27 @@ dependencies:
 
 登録が適切になる前に
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img5.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img5.png)
 
 ログイン後
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img4.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img4.png)
 
 グラフのページが合う前に
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img6.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img6.png)
 
 グラフページの適合後
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img2.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img2.png)
 
 他のページが適合する前に
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img1.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img1.png)
 
 その他のページの適合後
 
-![](https://github.com/smartbackme/KgDensity/tree/main/art/img3.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img3.png)
 
 
 ### 使用方法：
