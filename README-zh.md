@@ -13,27 +13,27 @@ dependencies:
 
 登录适配之前
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img5.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img5.jpg)
 
 登录适配之后
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img4.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img4.jpg)
 
 图表页面适配之前
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img6.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img6.jpg)
 
 图表页面适配之后
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img2.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img2.jpg)
 
 其他页面适配之前
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img1.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img1.jpg)
 
 其他页面适配之后
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img3.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img3.jpg)
 
 
 ### 使用方法：

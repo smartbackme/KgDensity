@@ -23,27 +23,27 @@ The following models are from the iPhone 5S
 
 Before login adaptation
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img5.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img5.jpg)
 
 After login adaptation
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img4.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img4.jpg)
 
 Before chart page adaptation
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img6.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img6.jpg)
 
 After chart page adaptation
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img2.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img2.jpg)
 
 Before other pages fit
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img1.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img1.jpg)
 
 After other pages are adapted
 
-![](https://github.com/smartbackme/KgDensity/blob/main/art/img3.png)
+![](https://github.com/smartbackme/KgDensity/blob/main/art/img3.jpg)
 
 
 ### Usage
